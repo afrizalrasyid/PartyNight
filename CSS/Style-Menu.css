@@ -1,0 +1,26 @@
+.web-header{
+    background-color: #990000;
+    margin: auto;
+}
+
+.header-logo{
+    float: left;
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
+.header-list{
+    width: 55%;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    list-style: none;
+}
+
+.menu{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0% 4% 0% 0%;
+}

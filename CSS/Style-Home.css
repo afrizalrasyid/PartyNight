@@ -1,0 +1,127 @@
+.web-header{
+    background-color: #990000;
+    margin: auto;
+}
+
+.web-body{
+    background-color: #FF5B00;
+}
+
+.web-footer{
+    background-color: #990000;
+    margin: auto;
+    margin-top: 7rem;
+    height: 110px;
+}
+
+.header-list{
+    width: 55%;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header-logo{
+    float: left;
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
+.footer-list{
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    list-style-type: none;
+}
+
+.menu{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0% 4% 0% 0%;
+}
+
+.social-media{
+    float: left;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+.phone-number{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+.sosmed-logo-1{
+    width: 2%;
+    float: left;
+    margin: 0% 0% 0% 32%;
+}
+
+.sosmed-logo-2{
+    width: 1.8%;
+    float: left;
+    margin: 0% 0% 0% 3%;
+}
+
+.sosmed-logo-3{
+    width: 2%;
+    float: left;
+    margin: 0% 0% 0% 3%;
+}
+
+.banner{
+    height: 31.1rem;
+    background-image:url("../Pictures/Junkfood.JPG");
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: center top;
+}
+
+.banner-text{
+    font-family: 'Viga', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+    width: 65%;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+.menu:hover{
+    color: #FF5B00;
+}
+
+.text-launching-left{
+    text-align: center;
+    max-width: 20%;
+    padding-left: 9rem;
+}
+
+.text-launching-center{
+    text-align: center;
+    max-width: 20%;
+    padding-left: 8rem;
+}
+
+.text-launching-right{
+    text-align: center;
+    max-width: 20%;
+    padding-left: 7rem;
+}
+
+.text-launching-head{
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-launching-body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.col-launching{
+    margin-top: 7rem;
+}
